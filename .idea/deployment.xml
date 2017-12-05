@@ -5,7 +5,11 @@
       <paths name="TestPhp">
         <serverdata>
           <mappings>
+<<<<<<< Updated upstream
             <mapping deploy="\" local="$PROJECT_DIR$" web="/" />
+=======
+            <mapping local="$PROJECT_DIR$" web="/" />
+>>>>>>> Stashed changes
           </mappings>
         </serverdata>
       </paths>

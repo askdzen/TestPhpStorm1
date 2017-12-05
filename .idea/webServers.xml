@@ -2,8 +2,13 @@
 <project version="4">
   <component name="WebServers">
     <option name="servers">
+<<<<<<< Updated upstream
       <webServer id="feb8daec-4447-4763-b5e9-edd575b0488e" name="TestPhp" url="http://localhost:81/Test1/">
         <fileTransfer mountedRoot="D:\OpenServer\domains\localhost\Test1" accessType="MOUNT" />
+=======
+      <webServer id="ee3bb5e2-d6fa-4b5f-a9d9-cc8d36d1be82" name="TestPhp" url="http://localhost:81/TestPhpStorm1/">
+        <fileTransfer mountedRoot="D:\!\OpenServer\OpenServer\domains\localhost\TestPhpStorm1" accessType="MOUNT" />
+>>>>>>> Stashed changes
       </webServer>
     </option>
   </component>
