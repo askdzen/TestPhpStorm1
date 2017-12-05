@@ -30,7 +30,7 @@
 //echo 2+3;
 //echo "<a href=\"php/Index.html\" >go</a>";
 //echo "<a href=\"php/test.php\" >go</a>";
-
+<<<<<<< HEAD
 $arr = [ 1, 2+3, 3, "Вот" ];
 var_dump( $arr );
 $c = test(5,6);
