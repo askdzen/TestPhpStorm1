@@ -4,21 +4,19 @@
 <head>
     <meta charset="UTF-8">
     <title>Title</title>
-<<<<<<< HEAD
+
     <link rel="stylesheet" href="css/main.css" >
-=======
+
     <link rel="stylesheet" href="../css/main.css" >
->>>>>>> origin/master
+
 </head>
 <body>
 <p>
     fsdfgdgdfgdfg
 </p>
-<<<<<<< HEAD
-1ё
-=======
 
->>>>>>> origin/master
+
+
 <?php
 /**
  * Created by PhpStorm.
@@ -40,15 +38,12 @@ return $a+$b;
 }
 echo $c;
 ?>
-=======
-//$arr = [ 1, 2, 3 ];
-//var_dump( $arr );
-?>
+
 
 <script type="text/javascript">
     document.write("Today is " + Date() );
 </script>
->>>>>>> origin/master
+
 </body>
 </html>
 
