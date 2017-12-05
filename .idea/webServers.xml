@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="feb8daec-4447-4763-b5e9-edd575b0488e" name="TestPhp" url="http://localhost:81/Test1/">
+        <fileTransfer mountedRoot="D:\OpenServer\domains\localhost\Test1" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>
